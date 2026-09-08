@@ -10,7 +10,7 @@
 **Contact:** kirti.a.chavhan@gmail.com  
 **Date:** September 2026
 
-**Version:** 3.0 - Enhanced with Task-Aware Routing & Capability Filtering
+**Version:** 3.0 - Enhanced with Task-Aware Routing & Capability Filtering.
 
 ---
 
