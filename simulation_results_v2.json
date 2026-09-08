@@ -1,0 +1,28 @@
+{
+  "version": "3.0",
+  "parameters": 10,
+  "constraintserve": {
+    "cost_mean": 58.22783976273656,
+    "cost_std": 1.3264332478023477,
+    "cost_ci_95": [
+      55.62803059704396,
+      60.827648928429156
+    ],
+    "sla_mean": 95.41061284509776,
+    "sla_std": 0.299667394169266,
+    "sla_ci_95": [
+      94.823264752526,
+      95.99796093766952
+    ],
+    "latency_mean": 121.92947090844437,
+    "decision_time_ms": 0.009734783172607422
+  },
+  "baseline": {
+    "cost_mean": 500.0,
+    "sla_mean": 18.524900441880195
+  },
+  "improvement": {
+    "cost_reduction_percent": 88.35443204745269,
+    "sla_improvement_points": 76.88571240321757
+  }
+}
