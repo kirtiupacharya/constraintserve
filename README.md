@@ -4,7 +4,7 @@
 
 **GitHub:** [github.com/kirtiupacharya/constraintserve](https://github.com/kirtiupacharya/constraintserve)
 
-**Paper:** arXiv:2609.xxxxx (update after publication)
+**Paper:** arXiv:2609.x(Need to update after publication)
 
 **Author:** Kirti Chavhan  
 **Contact:** kirti.a.chavhan@gmail.com  
